@@ -1,1 +1,1 @@
-Github is very interesting tool for devops and very interesting tool
+Github is very interesting tool for devops. GitHub serves as a comprehensive development tool, primarily functioning as a platform for version control, collaboration, and project management for software development.
